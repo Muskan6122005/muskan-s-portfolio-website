@@ -1,4 +1,4 @@
-# Muskan Yeshmin | Interactive Cyberpunk Portfolio
+# Muskan Yeshmin Ali | Interactive Cyberpunk Portfolio
 
 Welcome to the source code for my personal interactive portfolio!
 
